@@ -8,6 +8,11 @@
 .container div {
     padding-left: 20px;
     font-size: 20px;
+    color: white;
+}
+
+div h2 {
+    text-align: center;
 }
 
 .car {

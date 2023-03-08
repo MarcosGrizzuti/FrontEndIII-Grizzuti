@@ -7,6 +7,11 @@
     background-image: url("https://media.wired.com/photos/63b8d0a771c6b526845f15a6/16:9/w_2400,h_1350,c_limit/CES-2023-PEUGEOT_INCEPTION_CONCEPT_2301CN202.jpg")
 }
 
+.container h1 {
+    text-align: center;
+    color: white;
+}
+
 .formContainer {
     background-color: rgb(212, 212, 212);
     padding: 20px;
