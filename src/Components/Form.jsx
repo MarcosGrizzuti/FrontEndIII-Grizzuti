@@ -14,7 +14,7 @@ function Form() {
     const onChangeCar = (e) => setCar(e.target.value)
 
     const validateInputName = () => {return name.trim().length >= 3};
-    const validateInputCar = () => {return car.trim().length >= 6};
+    const validateInputCar = () => {return car.length >= 6};
 
     const handleOnChange = (e) => {
         e.preventDefault();
