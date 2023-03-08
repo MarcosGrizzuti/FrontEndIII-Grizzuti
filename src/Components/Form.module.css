@@ -1,0 +1,38 @@
+.container {
+    border-color: rgb(231, 231, 231);
+    border-style: solid;
+    padding: 30px;
+    border-radius: 5px;
+    width: 300px;
+    background-image: url("https://media.wired.com/photos/63b8d0a771c6b526845f15a6/16:9/w_2400,h_1350,c_limit/CES-2023-PEUGEOT_INCEPTION_CONCEPT_2301CN202.jpg")
+}
+
+.formContainer {
+    background-color: rgb(212, 212, 212);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.error {
+    color:white;
+    font-size: 15px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+input {
+    width: 90%;
+    height: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+}
+
+button {
+    background-color: rgb(61, 61, 177);
+    color: white;
+    width: 90%;
+    padding: 5px;
+    margin: 10px;
+    font-size: 15px;
+}
